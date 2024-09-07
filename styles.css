@@ -1,2 +1,17 @@
-
+.holder {
+	display : flex ;
+	justify-content : space-around ;
+	gap : 10px ;
+	width : 100% ;
+	
+}
+.item {
+display : flex ;
+align-items : center ;
+justify-content : center ;
+width : 100px ;
+	height : 100px ;
+	border : 1px solid #ddd ;
+	background-color : grey ;
+}
 /* Your CSS Code here. */
